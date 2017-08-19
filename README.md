@@ -1,6 +1,7 @@
-This is a demonstration about SQL-Injection for an universitary project, you can view the demo at:
+This is a demonstration about SQL-Injection ,Xss-injection and LFI  for an intership project, you can view the explication  at:
 
-http://sqlidemo.altervista.org
+-https://boubaya-mohamed.blogspot.com/2017/08/cross-site-scrip0ting-xss-attacks-what.html
+-https://boubaya-mohamed.blogspot.com/2017/08/sql-structured-query-language-injection.html
 
 - All vulnerabilities are explained in vulnerable pages
 
